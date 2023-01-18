@@ -1,5 +1,6 @@
 # Privacy Policy
-
-The Storm Wallet wallet is built for those looking to invest and store cryptocurrencies in a private and independent manner.It's a non-custodial, peer-to-peer wallet where only the user has control over the funds. It doesn't collect any data and keeps the user independent by not locking the user's funds to a specific wallet app.
-The Storm Wallet wallet is fully open-source and anyone can confirm the app works exactly as it claims to.
-We built Storm Wallet for ourselves as the other available solutions were not up to par. Both from an engineering and usability perspective, we believe this wallet to be significantly ahead of alternative products
+# 1. Storm Wallet doesn't collect any data or use analytics tools that may expose any data about its users. The wallet is designed to ensure a high level of privacy for its users.
+# 2. User data always remains on the user's device.
+# 3. The wallet doesn't collect any data about users.
+# 4. The wallet doesn't share any data about users. 
+# 5. There are no user accounts or databases keeping user data elsewhere.
